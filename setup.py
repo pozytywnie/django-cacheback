@@ -8,7 +8,7 @@ PACKAGE_DIR = os.path.abspath(os.path.dirname(__file__))
 os.chdir(PACKAGE_DIR)
 
 
-setup(name='django-cacheback',
+setup(name='django-cacheback-pozytywnie',
       version=__version__,
       url='https://github.com/codeinthehole/django-cacheback',
       author="David Winterbottom",
